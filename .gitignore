@@ -4,5 +4,9 @@ junk*
 .env
 .DS_Store
 .node_repl_history
-.nyc_output/
 .coveralls.yml
+
+# Testing
+coverage-report/
+coverage-temp/
+.nyc_output/
